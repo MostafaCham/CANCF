@@ -1,0 +1,90 @@
+﻿algorithm,linkage,feature_count,n_cluster,davies_score,silhouette_score,inertia
+feature agglomeration,ward,50,5,4.033769,0.040003,
+feature agglomeration,ward,50,11,3.296592,0.051192,
+feature agglomeration,ward,50,50,2.995606,0.029222,
+feature agglomeration,ward,50,100,3.177573,0.012084,
+feature agglomeration,ward,50,200,3.041288,0.010524,
+feature agglomeration,ward,500,5,5.659064,0.011916,
+feature agglomeration,ward,500,11,5.117771,0.018637,
+feature agglomeration,ward,500,50,3.938006,0.025318,
+feature agglomeration,ward,500,100,3.728355,0.035602,
+feature agglomeration,ward,500,200,3.515464,0.039522,
+feature agglomeration,ward,1000,5,6.338469,0.008995,
+feature agglomeration,ward,1000,11,5.825721,0.015715,
+feature agglomeration,ward,1000,50,4.407043,0.018869,
+feature agglomeration,ward,1000,100,4.031636,0.027349,
+feature agglomeration,ward,1000,200,3.657865,0.035037,
+feature agglomeration,average,50,5,3.305708,0.039988,
+feature agglomeration,average,50,11,2.793558,0.027549,
+feature agglomeration,average,50,50,2.324687,0.045178,
+feature agglomeration,average,50,100,2.25881,0.043037,
+feature agglomeration,average,50,200,2.214552,0.024314,
+feature agglomeration,average,500,5,3.560499,0.008455,
+feature agglomeration,average,500,11,4.078946,0.000658,
+feature agglomeration,average,500,50,3.753334,0.014234,
+feature agglomeration,average,500,100,3.36349,0.022463,
+feature agglomeration,average,500,200,2.843555,0.035006,
+feature agglomeration,average,500,300,2.614849,0.045798,
+feature agglomeration,average,1000,5,3.272935,0.002488,
+feature agglomeration,average,1000,11,4.12766,-0.003517,
+feature agglomeration,average,1000,50,4.151337,0.01122,
+feature agglomeration,average,1000,100,3.545785,0.015266,
+feature agglomeration,average,1000,200,3.095858,0.030776,
+feature agglomeration,average,1000,300,2.811205,0.037983,
+feature agglomeration,average,2000,5,3.587493,0.00393,
+feature agglomeration,average,2000,11,4.178714,-0.000228,
+feature agglomeration,average,2000,50,4.266906,0.008891,
+feature agglomeration,average,2000,100,3.85155,0.014331,
+feature agglomeration,average,2000,200,3.257373,0.020713,
+feature agglomeration,average,2000,300,3.002731,0.031621,
+feature agglomeration,complete,50,5,5.383273,0.006074,
+feature agglomeration,complete,50,11,4.34514,-0.000583,
+feature agglomeration,complete,50,50,3.133293,0.042962,
+feature agglomeration,complete,50,100,3.369168,0.022212,
+feature agglomeration,complete,50,200,3.18134,0.017622,
+feature agglomeration,complete,500,5,12.893319,-0.000274,
+feature agglomeration,complete,500,11,9.346133,0.000732,
+feature agglomeration,complete,500,50,5.470729,0.007226,
+feature agglomeration,complete,500,100,4.30292,0.021983,
+feature agglomeration,complete,500,200,3.555376,0.040223,
+feature agglomeration,complete,1000,5,14.399271,-0.003063,
+feature agglomeration,complete,1000,11,11.566657,-0.001566,
+feature agglomeration,complete,1000,50,6.209063,0.004625,
+feature agglomeration,complete,1000,100,4.733232,0.007072,
+feature agglomeration,complete,1000,200,3.911262,0.026514,
+feature agglomeration,single,50,5,0.88059,0.002402,
+feature agglomeration,single,50,11,0.895841,-0.066444,
+feature agglomeration,single,50,50,0.929129,-0.163686,
+feature agglomeration,single,50,100,0.943299,-0.197044,
+feature agglomeration,single,50,200,0.958851,-0.228846,
+feature agglomeration,single,500,5,0.968089,-0.007687,
+feature agglomeration,single,500,11,0.974133,-0.031901,
+feature agglomeration,single,500,50,0.979394,-0.067901,
+feature agglomeration,single,500,100,0.985922,-0.08582,
+feature agglomeration,single,500,200,1.007125,-0.102845,
+feature agglomeration,single,1000,5,0.98124,-0.008003,
+feature agglomeration,single,1000,11,0.975438,-0.018697,
+feature agglomeration,single,1000,50,0.982516,-0.051776,
+feature agglomeration,single,1000,100,1.005031,-0.067428,
+feature agglomeration,single,1000,200,1.006763,-0.084057,
+kmeans,,50,5,3.357087,0.06619,6411.257286
+kmeans,,50,11,2.808678,0.088305,5649.68667
+kmeans,,50,50,2.686981,0.069141,4352.811527
+kmeans,,50,100,2.848803,0.049207,3991.867171
+kmeans,,50,200,2.832538,0.044988,3666.636403
+kmeans,,500,5,5.42067,0.020379,9300.928422
+kmeans,,500,11,5.148282,0.031272,8904.635612
+kmeans,,500,50,3.861161,0.048549,7807.792102
+kmeans,,500,100,3.536137,0.056542,7203.849793
+kmeans,,500,200,3.440455,0.052025,6662.394889
+kmeans,,1000,5,5.708573,0.013937,9716.414425
+kmeans,,1000,11,5.535514,0.023327,9374.09597
+kmeans,,1000,50,4.289447,0.037123,8477.683711
+kmeans,,1000,100,3.891858,0.048884,7894.300852
+kmeans,,1000,200,3.634403,0.052254,7320.055937
+kmeans,,2000,5,6.71105,0.010769,10004.92764
+kmeans,,2000,11,6.121266,0.018028,9721.382259
+kmeans,,2000,50,4.781309,0.031896,8957.322717
+kmeans,,2000,100,4.389491,0.038123,8466.770315
+kmeans,,2000,200,3.867603,0.044525,7912.993459
+kmeans,,2000,300,3.623049,0.045339,7577.352561
